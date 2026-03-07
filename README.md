@@ -1,9 +1,7 @@
 # lofi politique
 
-Beats lofi + extraits de discours politiques francais.
+Beats lofi generatifs + vrais extraits de discours politiques francais.
 
-14 vrais extraits audio embarques (de Gaulle, Giscard, Badinter, Chirac, Sarkozy, Hollande, Macron). 20 moods. Zero dependance externe.
-
-Fichier unique, marche offline.
+12 discours : de Gaulle, Chirac, Badinter, Sarkozy, Hollande, Macron, Mitterrand, Melenchon, Simone Veil. Web Audio API, zero dependance externe.
 
 **[Ecouter](https://kit-thomas-assistant.github.io/lofi-politique/)**
